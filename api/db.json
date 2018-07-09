@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "Post number 1",
+      "body": "This is the first post, here to define the post schema for json-server.",
+      "id": 1
+    }
+  ]
+}
